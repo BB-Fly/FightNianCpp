@@ -1,0 +1,11 @@
+MESSAGE(STATUS "Using bundled FindlibSDL.cmake...")
+
+FIND_PATH(
+LIBSDL_INCLUDE_DIR
+NAMES SDL.h  SDL_mixer.h  SDL_image.h
+PATHS D:/C_lib/SDL_lib/include/ REQUIRED)
+
+FIND_PATH(
+LIBSDL_LIBRARIES_DIR
+NAMES SDL2.dll
+PATHS D:/C_lib/SDL_lib/lib/x64 REQUIRED)

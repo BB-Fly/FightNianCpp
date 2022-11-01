@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\86137\Desktop\study\game\FightNianCpp\build\CMakeFiles\79ecb6b135bbb3f8a7faf90be826d447\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{95216054-9B55-3C44-8CBF-B1DB81C1D027}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
